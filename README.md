@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/reddy895/Leet/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/reddy895/Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/reddy895/Leet/tree/master/0069-sqrtx) |
 ## Binary Search
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/reddy895/Leet/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/reddy895/Leet/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
