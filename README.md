@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/reddy895/Leet/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/reddy895/Leet/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/reddy895/Leet/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/reddy895/Leet/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/reddy895/Leet/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
