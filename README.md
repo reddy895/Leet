@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/reddy895/Leet/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/reddy895/Leet/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/reddy895/Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/reddy895/Leet/tree/master/0069-sqrtx) |
@@ -27,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/reddy895/Leet/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/reddy895/Leet/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/reddy895/Leet/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/reddy895/Leet/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
