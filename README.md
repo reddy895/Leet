@@ -7,6 +7,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/reddy895/Leet/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/reddy895/Leet/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/reddy895/Leet/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,9 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/reddy895/Leet/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/reddy895/Leet/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/reddy895/Leet/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
