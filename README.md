@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/reddy895/Leet/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/reddy895/Leet/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/reddy895/Leet/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/reddy895/Leet/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/reddy895/Leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/reddy895/Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/reddy895/Leet/tree/master/0069-sqrtx) |
 ## Binary Search
