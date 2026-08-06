@@ -21,6 +21,7 @@
 | [0066-plus-one](https://github.com/reddy895/Leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/reddy895/Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/reddy895/Leet/tree/master/0069-sqrtx) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/reddy895/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/reddy895/Leet/tree/master/0073-set-matrix-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/reddy895/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
