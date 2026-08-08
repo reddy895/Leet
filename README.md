@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/reddy895/Leet/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/reddy895/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reddy895/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0136-single-number](https://github.com/reddy895/Leet/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/reddy895/Leet/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/reddy895/Leet/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
