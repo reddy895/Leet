@@ -105,4 +105,5 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/reddy895/Leet/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/reddy895/Leet/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/reddy895/Leet/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
