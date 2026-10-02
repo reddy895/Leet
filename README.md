@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reddy895/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/reddy895/Leet/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
